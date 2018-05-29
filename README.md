@@ -1,2 +1,2 @@
 # datasciencecoursera
-Fisrt homeworks
+First homework
